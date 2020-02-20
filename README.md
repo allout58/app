@@ -16,6 +16,7 @@
 
 > GitHub App built with [Probot](https://github.com/probot/probot) that add an appropriate label depend on the PR's status.
 
+UPDATE FOR A PR
 
 ## Motivation
 
